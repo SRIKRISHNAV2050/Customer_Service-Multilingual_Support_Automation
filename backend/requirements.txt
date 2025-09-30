@@ -1,0 +1,15 @@
+Flask>=2.2
+flask-sqlalchemy
+flask-migrate
+psycopg2-binary
+redis
+celery
+requests
+openai
+twilio
+sendgrid
+stripe
+cryptography
+textblob
+python-jose or pyjwt
+pgvector (optional)
